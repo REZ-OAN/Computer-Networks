@@ -51,6 +51,7 @@ The authoritative nameservers contains information specific to the domain name i
 
 ## How It Works
 Let's take an example a `www.local.example.com`, we are requesting to this website from our browser (client).
+
 Let's have a look :
 
 ![working_process](https://github.com/REZ-OAN/Computer-Networks/blob/main/images/006.working_process.png)
