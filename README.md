@@ -7,4 +7,5 @@ Computer networks are intricate systems connecting devices like computers, serve
 
 ## Learn Networking
 - [Learn DNS](https://github.com/REZ-OAN/Computer-Networks/blob/main/docs/dns.md)
+- [DNS Hands On](https://github.com/REZ-OAN/Computer-Networks/blob/main/docs/dns_handson.md)
 

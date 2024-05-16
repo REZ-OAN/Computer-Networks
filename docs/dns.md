@@ -10,7 +10,7 @@
     - [TLD Servers](#tld-servers)
     - [Authoritative Nameservers](#authoritative-nameservers)
  - [How It Works](#how-it-works)
-
+ - [Hands On](#hands-on)   
 ## Introduction
 <justify>
 DNS, or Domain Name System, is like the internet's phonebook. It translates human-readable domain names, like "google.com," into numerical IP addresses that computers use to communicate with each other.
@@ -86,3 +86,6 @@ After getting the information about the `TLD server`. The **recursivel resolver 
 After getting the information about the **authoritative server**. The **recursivel resolver server** send request to the **authoritative server** with the `domain` name (in our case example.com). Then **authoritative server** respond with a **Ip address** of the requested server. And it is the last step for lookup the **Ip address** of a server. After getting the **Ip address** the **recursivel resolver server** saves it in it's `cache` and send it to the client.
 </justify>
 
+## Hands On
+If you want to visualize on your own, how DNS works then follow this doc :
+- [How DNS works Hands On](https://github.com/REZ-OAN/Computer-Networks/blob/main/docs/dns_handson.md)
